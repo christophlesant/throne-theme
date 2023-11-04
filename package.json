@@ -1,8 +1,14 @@
 {
-  "name": "heavy-dark",
-  "displayName": "Heavy-Dark",
-  "description": "A Dark Theme to match your deepest secrets.",
+  "name": "throne-theme",
+  "displayName": "Throne",
+  "description": "A dark theme for the sophisticated aristocrat.",
   "version": "0.0.1",
+  "publisher": "Heavysomnia",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heavysomnia/throne-theme"
+  },
+  "license": "Apache License",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -12,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Heavy-Dark",
+        "label": "Throne Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Heavy-Dark-color-theme.json"
+        "path": "./themes/throne-theme.json"
       }
     ]
   }

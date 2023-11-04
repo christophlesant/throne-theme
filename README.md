@@ -1,17 +1,15 @@
-# heavy-dark README
+<img src="./themes/throne-preview-1.png" alt="Throne Preview 1" width="100%">
 
-## Working with Markdown
+<div align="center">
+    <h1><i>THRONE THEME</i></h1>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+    A dark theme for the Sophistocated Aristocrat
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<div style="display:flex; width: fit-content">
 
-## For more information
+<img src="./themes/throne-preview-2.png" alt="Throne Preview 2" style="width: 50%;">
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<img src="./themes/throne-preview-3.png" alt="Throne Preview 2" style="width: 50%;">
 
-**Enjoy!**
-# heavy-dark
+</div>
+</div>
