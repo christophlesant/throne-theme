@@ -1,0 +1,21 @@
+{
+  "name": "heavy-dark",
+  "displayName": "Heavy-Dark",
+  "description": "A Dark Theme to match your deepest secrets.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Heavy-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Heavy-Dark-color-theme.json"
+      }
+    ]
+  }
+}
