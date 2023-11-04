@@ -9,6 +9,7 @@
     "url": "https://github.com/heavysomnia/throne-theme"
   },
   "license": "Apache License",
+  "icon": "./themes/throne-theme-icon.png",
   "engines": {
     "vscode": "^1.84.0"
   },
