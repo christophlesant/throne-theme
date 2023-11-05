@@ -1,9 +1,8 @@
-# Change Log
-
-All notable changes to the "throne-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- changed class syntax color - changed operators syntax color - updated syntax highlighting for accessibility
+- update package
+- add icon
+- update package
+- added preview thumbnails
+- Create LICENSE
+- add files
+- init commit - add readme
