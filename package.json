@@ -2,7 +2,7 @@
   "name": "throne-theme",
   "displayName": "Throne",
   "description": "A dark theme for the sophisticated aristocrat.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "Heavysomnia",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   "license": "Apache License",
   "icon": "./themes/throne-theme-icon.png",
   "engines": {
-    "vscode": "^1.84.0"
+    "vscode": "^1.63.2"
   },
   "categories": [
     "Themes"
